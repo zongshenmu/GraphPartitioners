@@ -27,3 +27,6 @@ string edgename="/data0/mzs/Code/MPGraph/data/products/walks.txt";
 pnum is the partitioned chunks, memsize is the memory size for edge  streaming methods, method is the choosed partitioner, lambda is for HDRF, balance_ratio is the edge counts deviating from the average, edgename is the absolute path for graph datasets.
 
 Make and run the `main.cpp`. The output file is the partitioned results and saved in ``{edgename}.edgepart.{pnum}``.
+
+### Future
+Our data-driven streaming graph partitioning will be released soon. It combines the node attributes and graph structure to partition the graph data and excute efficent distributed graph neural networks.
