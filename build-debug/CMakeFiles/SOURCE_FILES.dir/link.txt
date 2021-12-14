@@ -1,2 +1,0 @@
-/usr/bin/ar qc libSOURCE_FILES.a  CMakeFiles/SOURCE_FILES.dir/converter/conversions.cpp.o CMakeFiles/SOURCE_FILES.dir/converter/shuffler.cpp.o CMakeFiles/SOURCE_FILES.dir/ne_partitioner/graph.cpp.o CMakeFiles/SOURCE_FILES.dir/ne_partitioner/ne.cpp.o CMakeFiles/SOURCE_FILES.dir/dbh.cpp.o CMakeFiles/SOURCE_FILES.dir/hdrf.cpp.o CMakeFiles/SOURCE_FILES.dir/streaming_vp/ldg.cpp.o CMakeFiles/SOURCE_FILES.dir/streaming_vp/fennel.cpp.o
-/usr/bin/ranlib libSOURCE_FILES.a

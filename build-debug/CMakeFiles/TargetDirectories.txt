@@ -1,4 +1,0 @@
-/data0/mzs/Code/GraphPartitioning/build-debug/CMakeFiles/rebuild_cache.dir
-/data0/mzs/Code/GraphPartitioning/build-debug/CMakeFiles/edit_cache.dir
-/data0/mzs/Code/GraphPartitioning/build-debug/CMakeFiles/GraphPartitioning.dir
-/data0/mzs/Code/GraphPartitioning/build-debug/CMakeFiles/SOURCE_FILES.dir
