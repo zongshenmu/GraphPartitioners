@@ -1,0 +1,5 @@
+CMake executable not found: /data0/mzs/Packages/cmake-3.17.0-Linux-x86_64/bin/cmake Configure
+
+Cannot get compiler information:
+	Unable to create temporary file
+	Unable to create temporary file
